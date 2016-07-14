@@ -1,7 +1,7 @@
 {
   "name": "2048-cubed",
   "version": "0.0.1",
-  "description": "...",
+  "description": "A 3D rendering of the famous 2048 game in 3D (i.e. 2048^3) with two render targets: HTML/CSS & WebGL",
   "author": "Farhad Ghayour",
   "main": "./dist/index.html",
   "scripts": {
