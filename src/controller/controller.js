@@ -34,7 +34,6 @@ export default class Controller {
       if (mapped) {
         e.preventDefault();
         this.emit('move', mapped);
-        this.emit('rotate', rotateMapped);
       }
     });
     return this;
