@@ -1,4 +1,5 @@
 import _ from 'lodash';
+import TWEEN from 'tween.js';
 import Grid from '../grid/grid';
 import Cube from '../cube/cube';
 
