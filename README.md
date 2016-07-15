@@ -1,5 +1,9 @@
 # 2048 Cubed
 
+## Installtion
+- Make sure you have `node` installed: `https://nodejs.org/en/`
+- Clone the repo and install dependencies: 'npm i'
+
 ## Get Started
 - **Run the repo in development mode**. `npm run dev`
 - **Run the repo in development mode with all outputs on a single line**. `npm run dev -s`
